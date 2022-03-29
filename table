@@ -1,0 +1,43 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\title{High School Assignment}
+\author{K Vivek Kumar : CS21BTECH11026}
+\date{28 March 2022}
+\begin{document}
+\maketitle
+\section{2018-ICSE-10th board-Problem : 8(b)}
+\begin{table}[h!]
+\caption{Given table}\\
+\center
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+Marks & 0-10 & 10-20 & 20-30 & 30-40 & 40-50\\
+\hline
+Number of students & 7 & a & 8 & 10 & 5\\
+\hline
+\end{tabular}
+\label{1}
+\end{table}
+\begin{table}[h!]
+\caption{Extended table from the problem}\\
+\center
+\begin{tabular}{|c|c|c|c|}
+\hline
+Intervals & Frequency (f_i) & Mid-Value (x_i) & f_ix_i\\
+\hline
+0-10 & 7 & 5 & 35\\
+\hline
+10-20 & a & 15 & 15a\\
+\hline
+20-30 & 8 & 25 & 200\\
+\hline
+30-40 & 10 & 35 & 350\\
+\hline
+40-50 & 5 & 45 & 225\\
+\hline
+ & \sum f_i = 30 + a &  & \sum f_ix_i = 810 + 15a\\
+\hline
+\end{tabular}
+\label{1}
+\end{table}
+\end{document}
