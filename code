@@ -2,7 +2,7 @@
 \usepackage[utf8]{inputenc}
 
 \title{High School Assignment}
-\author{K Vivek Kumar}
+\author{K Vivek Kumar : CS21BTECH11026}
 \date{28 March 2022}
 \usepackage{amsmath}
 \usepackage{graphicx}
@@ -57,7 +57,4 @@ Therefore, the value of mean(m = 24) can be written as,\\
 a = 10
 \end{equation*}\\
 Therefore, the required value(a) is 10.
-
-
 \end{document}
-
