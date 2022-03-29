@@ -1,0 +1,63 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{High School Assignment}
+\author{K Vivek Kumar}
+\date{28 March 2022}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\begin{document}
+
+\maketitle
+
+\section{2018-ICSE-10th board-Problem : 8(b)}
+Given, the mean of the following distribution is, m = 24.
+\\
+We know that,
+\begin{equation}
+mean(m) = \frac{\sum f_ix_i}{\sum f_i}
+\end{equation}
+\\
+\\
+\text{ As per the question,}\\
+\begin{table}[h!]
+\caption{Given data : }
+\center
+\begin{tabular}{c c c c}
+\hline
+Intervals & Frequency (f_i) & Mid-Value (x_i) & f_ix_i\\
+\hline
+0-10 & 7 & 5 & 35\\
+\hline
+10-20 & a & 15 & 15a\\
+\hline
+20-30 & 8 & 25 & 200\\
+\hline
+30-40 & 10 & 35 & 350\\
+\hline
+40-50 & 5 & 45 & 225\\
+\hline
+ & \sum f_i = 30 + a &  & \sum f_ix_i = 810 + 15a
+\end{tabular}
+\end{table}\\
+Therefore, the value of mean(m = 24) can be written as,\\
+\begin{equation*}
+24 = \frac{810 + 15a}{30 + a}\\
+\end{equation*}
+\begin{equation*}
+24(30 + a) = 810 + 15a
+\end{equation*}
+\begin{equation*}
+720 + 24a = 810 + 15a
+\end{equation*}
+\begin{equation*}
+9a = 90
+\end{equation*}
+\begin{equation*}
+a = 10
+\end{equation*}\\
+Therefore, the required value(a) is 10.
+
+
+\end{document}
+
